@@ -1,0 +1,25 @@
+[en]
+ADVMUTE_CANT_MUTE = You &x03can't &x01mute this player due to his &x04immunity&x01.
+ADVMUTE_MENU_HEADER = \yChoose a player to toggle his \rmute status\y:\d
+ADVMUTE_MUTE_ALL = \yMute all players
+ADVMUTE_UNMUTE_ALL = \yUnmute all players
+ADVMUTE_NEXT_PAGE = \yNext page
+ADVMUTE_PREVIOUS_PAGE = \yPrevious page
+ADVMUTE_EXIT = \yClose the \rMute Menu
+ADVMUTE_MUTED_ALL = You have &x03muted &x04all players&x01.
+ADVMUTE_UNMUTED_ALL = You have &x03unmuted &x04all players&x01.
+ADVMUTE_MUTED_PLAYER = You have &x03muted &x04%s&x01.
+ADVMUTE_UNMUTED_PLAYER = You have &x03unmuted &x04%s&x01.
+
+[mk]
+ADVMUTE_CANT_MUTE = &x03Ne mozesh &x01da go mjutnesh ovoj igrach zatoa shto ima &x04imunitet&x01.
+ADVMUTE_MENU_HEADER = \yIzberi igrach za \rmjut\y:\d
+ADVMUTE_MUTE_ALL = \yMjutni gi site igrachi
+ADVMUTE_UNMUTE_ALL = \yOdmjutni gi site igrachi
+ADVMUTE_NEXT_PAGE = \ySledna stranica
+ADVMUTE_PREVIOUS_PAGE = \yPrethodna stranica
+ADVMUTE_EXIT = \yZatvori go \rMjut Menito
+ADVMUTE_MUTED_ALL = Gi &x03mjutna &x04site igrachi&x01.
+ADVMUTE_UNMUTED_ALL = Gi &x03odmjutna &x04site igrachi&x01
+ADVMUTE_MUTED_PLAYER = Go &x03mjutna &x04%s&x01.
+ADVMUTE_UNMUTED_PLAYER = Go &x03odmjutna &x04%s&x01.
