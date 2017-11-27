@@ -38,6 +38,7 @@ public plugin_init()
 {
 	register_plugin("Advanced Mute", PLUGIN_VERSION, "OciXCrom")
 	register_cvar("AdvancedMute", PLUGIN_VERSION, FCVAR_SERVER|FCVAR_SPONLY|FCVAR_UNLOGGED)
+	register_dictionary("AdvancedMute.txt")
 	register_message(get_user_msgid("SayText"), "OnPlayerMessage")
 	register_forward(FM_Voice_SetClientListening, "OnPlayerTalk")
 	
